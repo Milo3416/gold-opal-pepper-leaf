@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fundamentos de Lógica",
+      "hasCanvas": false,
+      "bodyTextLen": 3658,
+      "bodyTextHash": "ff6342fe30bf77ec8b9f1cced5073bb4243e9d5f9db4bfbea9505eea2e78ce02",
+      "bodyTextPrefix": "RECAPITULACIÓN Fundamentos de lógica matemática Conceptos explic",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fundamentos de Lógica",
+      "hasCanvas": false,
+      "bodyTextLen": 3665,
+      "bodyTextHash": "7cf12e98bdb57986a8e83777083566d9b077783864cec12516c0db7339c1058e",
+      "bodyTextPrefix": "RECAPITULACIÓN Fundamentos de lógica matemática Conceptos explic",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
